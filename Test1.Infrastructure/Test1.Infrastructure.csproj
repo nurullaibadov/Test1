@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cloudinary.Core" Version="1.31.0" />
+    <PackageReference Include="MailKit" Version="4.14.1" />
+    <PackageReference Include="Twilio" Version="7.14.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Test1.Application\Test1.Application.csproj" />
+  </ItemGroup>
+
+</Project>
