@@ -1635,7 +1635,10 @@
         },
         "runtime": {
           "bin/placeholder/Test1.Application.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Test1.Domain/1.0.0": {
         "type": "project",
