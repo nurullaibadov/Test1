@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Test1.Domain.Enums
 {
-
     public enum BookingStatus
     {
         Pending = 0,
@@ -16,7 +15,6 @@ namespace Test1.Domain.Enums
         Cancelled = 4,
         Rejected = 5
     }
-
     public enum PaymentStatus
     {
         Pending = 0,
@@ -103,5 +101,7 @@ namespace Test1.Domain.Enums
         OffDuty = 2,
         OnBreak = 3
     }
+
+
 
 }

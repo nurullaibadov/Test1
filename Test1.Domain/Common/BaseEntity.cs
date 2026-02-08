@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Test1.Domain.Common
 {
+ 
     public abstract class BaseEntity
     {
-        public Guid Id { get; set;  }    
-        public DateTime CreatedAt { get; set;  }        
+        public Guid Id { get; set;  }       
+        public DateTime CreatedAt { get; set;  }    
         public DateTime? UpdatedAt { get; set;  }       
         public bool IsDeleted { get; set;  }    
-        public DateTime? DeletedAt { get; set; }        
+        public DateTime? DeletedAt { get; set;  }   
     }
 }

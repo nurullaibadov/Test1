@@ -1510,7 +1510,10 @@
         },
         "runtime": {
           "bin/placeholder/Test1.Application.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Test1.Domain/1.0.0": {
         "type": "project",
@@ -4800,6 +4803,7 @@
     "net8.0": [
       "Cloudinary.Core >= 1.31.0",
       "MailKit >= 4.14.1",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.0",
       "Test1.Application >= 1.0.0",
       "Twilio >= 7.14.3"
     ]
@@ -4866,6 +4870,10 @@
           "MailKit": {
             "target": "Package",
             "version": "[4.14.1, )"
+          },
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.0, )"
           },
           "Twilio": {
             "target": "Package",

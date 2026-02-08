@@ -10,6 +10,6 @@ namespace Test1.Domain.Common
     {
         public string? CreatedBy { get; set;  } 
         public string? UpdatedBy { get; set;  } 
-        public string? DeletedBy { get; set;  }     
+        public string? DeletedBy { get; set;  } 
     }
 }

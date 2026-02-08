@@ -1,0 +1,13 @@
+C:\Backend\Test1\Test1.Domain\bin\Debug\net8.0\Test1.Domain.deps.json
+C:\Backend\Test1\Test1.Domain\bin\Debug\net8.0\Test1.Domain.dll
+C:\Backend\Test1\Test1.Domain\bin\Debug\net8.0\Test1.Domain.pdb
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\Test1.Domain.csproj.AssemblyReference.cache
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\Test1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\Test1.Domain.AssemblyInfoInputs.cache
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\Test1.Domain.AssemblyInfo.cs
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\Test1.Domain.csproj.CoreCompileInputs.cache
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\Test1.Domain.sourcelink.json
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\Test1.Domain.dll
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\refint\Test1.Domain.dll
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\Test1.Domain.pdb
+C:\Backend\Test1\Test1.Domain\obj\Debug\net8.0\ref\Test1.Domain.dll
